@@ -61,9 +61,9 @@ pip install -r requirements.txt
 ## Results
 | Model               | RMSE   | MAE    | R² Score |
 |---------------------|--------|--------|----------|
-| Random Forest       | 42.5877| 36.0873| XX.XX    |
-| Decision Tree       | XX.XX  | XX.XX  | XX.XX    |
-| Gradient Boosting   | XX.XX  | XX.XX  | XX.XX    |
+| Random Forest       | 42.5877| 36.0873| 0.9168   |
+| Adaboost            | 49.16  | 43.0607| 0.608    |
+| Gradient Boosting   | 55.291 | 44.5637| 0.4337   |
 
 ---
 
