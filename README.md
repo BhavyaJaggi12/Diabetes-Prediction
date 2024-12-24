@@ -10,7 +10,7 @@ This repository contains a machine learning-based diabetes prediction model usin
 Cross-validation using RandomizedSearchCV.
 
 ### Performance metrics such as:
-1)Mean Absolute Error (MAE),
+1)Mean Absolute Error (MAE)
 2)Mean Squared Error (MSE)
 3)Root Mean Squared Error (RMSE)
 4)R² Score
