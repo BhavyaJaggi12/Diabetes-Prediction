@@ -3,16 +3,16 @@ This repository contains a machine learning-based diabetes prediction model usin
 
 ## Features
 ### Implementation of multiple ensemble techniques:
-Random Forest
-Decision Tree
-Gradient Boosting
+1)Random Forest
+2)Decision Tree
+3)Gradient Boosting
 
 Cross-validation using RandomizedSearchCV.
 
 ### Performance metrics such as:
-Mean Absolute Error (MAE)
-Mean Squared Error (MSE)
-Root Mean Squared Error (RMSE)
-R² Score
+1)Mean Absolute Error (MAE),
+2)Mean Squared Error (MSE)
+3)Root Mean Squared Error (RMSE)
+4)R² Score
 
 
