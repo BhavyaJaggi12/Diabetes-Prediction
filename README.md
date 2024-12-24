@@ -15,4 +15,9 @@ Cross-validation using RandomizedSearchCV.
 3)Root Mean Squared Error (RMSE)
 4)R² Score
 
+## Dataset
+The model uses the load_diabetes dataset from scikit-learn, which contains:
+Features: Age, Sex, BMI, Blood Pressure, and 6 blood serum measurements.
+Target: A quantitative measure of disease progression one year after basel
+
 
